@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-doc" />
+        <module name="spring-boot-elasticsearch" />
+        <module name="spring-boot-fastdfs" />
+        <module name="spring-boot-mail" />
+        <module name="spring-boot-pay" />
+        <module name="spring-boot-seckill" />
+        <module name="spring-data-quartz" />
+        <module name="xufei_msc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-doc" target="1.6" />
+      <module name="spring-boot-elasticsearch" target="1.7" />
+      <module name="spring-boot-fastdfs" target="1.5" />
+      <module name="spring-boot-mail" target="1.6" />
+      <module name="spring-boot-pay" target="1.6" />
+      <module name="spring-boot-seckill" target="1.6" />
+      <module name="spring-data-quartz" target="1.6" />
+      <module name="xufei_msc" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

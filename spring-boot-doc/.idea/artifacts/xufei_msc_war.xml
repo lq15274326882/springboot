@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xufei_msc:war">
+    <output-path>$PROJECT_DIR$/../xufei_msc/target</output-path>
+    <root id="archive" name="xufei_msc.war">
+      <element id="artifact" artifact-name="xufei_msc:war exploded" />
+    </root>
+  </artifact>
+</component>

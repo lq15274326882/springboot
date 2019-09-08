@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-doc.iml" filepath="$PROJECT_DIR$/spring-boot-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-elasticsearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/../spring-boot-elasticsearch/spring-boot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-fastdfs/spring-boot-fastdfs.iml" filepath="$PROJECT_DIR$/../spring-boot-fastdfs/spring-boot-fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-mail/spring-boot-mail.iml" filepath="$PROJECT_DIR$/../spring-boot-mail/spring-boot-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-pay/spring-boot-pay.iml" filepath="$PROJECT_DIR$/../spring-boot-pay/spring-boot-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-seckill/spring-boot-seckill.iml" filepath="$PROJECT_DIR$/../spring-boot-seckill/spring-boot-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-quartz/spring-data-quartz.iml" filepath="$PROJECT_DIR$/../spring-boot-quartz/spring-data-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xufei_msc/xufei_msc.iml" filepath="$PROJECT_DIR$/../xufei_msc/xufei_msc.iml" />
+    </modules>
+  </component>
+</project>

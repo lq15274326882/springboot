@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="xufei_msc:war exploded">
+    <output-path>$PROJECT_DIR$/../xufei_msc/target/xufei_msc</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="xufei_msc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.youbenzi:MDTool:1.2.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.41" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../xufei_msc/target/xufei_msc/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="xufei_msc/web/Web" />
+    </root>
+  </artifact>
+</component>
